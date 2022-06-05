@@ -1,0 +1,195 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+h1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 45px;
+}
+
+h2 {
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+}
+
+h3 {
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+}
+
+h4 {
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+}
+
+h5 {
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+}
+
+h6 {
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+}
+
+p {
+  font-family: 'Poppins';
+  font-size: 16px;
+  line-height: 150%;
+  padding-top: 100px;
+  padding-left: 110px;
+  padding-right: 110px;
+  color: darkgray;
+}
+
+h1, h2, h3, h4, p {
+  margin: 0;
+}
+
+#section1{
+    background: url('https://telegra.ph/file/70d0cc2848694806e76eb.jpg');
+    background-size: cover;                      
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 370px;
+}
+
+#section1 .col-sm-12{
+    padding-top: 320px;
+}
+
+#section1 .searchbox{
+    width: 650px;
+    height: 100px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-left: 395px;
+    margin-right: 395px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#section1 .bi-search{
+    padding-left: 20px;
+    position: absolute;
+    padding-top: 13px;
+}
+
+#section1 .bi-house{
+    padding-left: 20px;
+    position: absolute;
+    padding-top: 13px;
+}
+
+#section1 .bi-file-earmark{
+    padding-left: 20px;
+    position: absolute;
+    padding-top: 13px;
+}
+
+#section1 .form-control1{
+    width: 416px;
+    height: 56px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    border-radius: 100px;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+#section1 .form-control2{
+    width: 252px;
+    height: 56px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    border-radius: 100px;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+#section1 .btn-1{
+    width: 163px;
+    height: 50px;
+    background: #AD8B73;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+#section1 .btn-1:hover{
+    background: #7C684A;
+    color: #FFFFFF;
+}
+
+#section1 .btn-2{
+    width: 256px;
+    height: 50px;
+    background: #378C1A;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+#section1 .table{
+  margin-top: 10px;
+  margin-left: 110px;
+  margin-right: 110px;
+  width: 1200px;
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.40);
+  text-align: center;
+  border-color: #FFFFFF;
+  border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+#section1 .table-header{
+  background-color: #AD8B73;
+  color: #FFFFFF;
+  border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+#section1 .table-body{
+  border-color: #FFFFFF;
+}
+
+#section1 .guru{
+  width: 240px;
+  height: 175px;
+  margin-top: 100px;
+  margin-left: 600px;
+  margin-right: 600px;
+}

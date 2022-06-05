@@ -1,0 +1,180 @@
+@prefix id: <https://sman22bandung.com/> .
+@prefix person:  <https://sman22bandung.com/ns/person#> .
+@prefix rdf: <https://www.ldf.fi/service/rdf-grapher> .
+
+#Student
+id:001
+    person:nama                  "Farhan Maulana Alief" ;
+    person:alamat                "Jl. Adi Crysantium No.38" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung, 21-Oktober-2001" ;
+    person:universitas           "Universitas Padjadjaran" ;
+    person:jurusan               "Teknik Informatika" ;
+    person:tahunmasuk            "2019" .
+
+id:002
+    person:nama                  "Ghaffa Maziyya" ;
+    person:alamat                "Jl. Adi Crysantium No.34" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung, 13-Juni-2001" ;
+    person:universitas           "Universitas Padjadjaran" ;
+    person:jurusan               "Bisnis Logistik" ;
+    person:tahunmasuk            "2019" .
+
+id:003
+    person:nama                  "Andhika Al Ghifari" ;
+    person:alamat                "Jl. Adi Kaktus No.1" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung, 29-April-2001" ;
+    person:universitas           "Universitas Padjadjaran" ;
+    person:jurusan               "Bisnis Logistik" ;
+    person:tahunmasuk            "2019" .
+
+id:004
+    person:nama                  "Andradika Damar Buana" ;
+    person:alamat                "Jl. Adi Bougenvil No.43" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung, 20-Februari-2002" ;
+    person:universitas           "Universitas Telkom" ;
+    person:jurusan               "Desain Interior" ;
+    person:tahunmasuk            "2019" .
+
+id:005
+    person:nama                  "Ryias Iklas Sanudin" ;
+    person:alamat                "Jl. Adi Crysantium No.28" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Cianjur, 29-Desember-2000" ;
+    person:universitas           "Universitas Telkom" ;
+    person:jurusan               "Desain Produk" ;
+    person:tahunmasuk            "2019" .
+
+id:006
+    person:nama                  "Naufal Mahira Dewantoro" ;
+    person:alamat                "Jl. Adi Bakung No.2" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung 29-Februari-2002" ;
+    person:universitas           "Universitas Islam Bandung" ;
+    person:jurusan               "Hukum" ;
+    person:tahunmasuk            "2019" .
+
+id:007
+    person:nama                  "Jihan Setiana Putra" ;
+    person:alamat                "Jl. Adi Bougenvil No.17" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung 27-Januari-2002" ;
+    person:universitas           "Universitas Islam Bandung" ;
+    person:jurusan               "Tata Kota" ;
+    person:tahunmasuk            "2019" .
+
+id:008
+    person:nama                  "Daryl Rafif" ;
+    person:alamat                "Jl. Adi Bakung No.18" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung 2-Mei-2002" ;
+    person:universitas           "Binus" ;
+    person:jurusan               "Manajemen Pemasaran" ;
+    person:tahunmasuk            "2020" .
+
+id:009
+    person:nama                  "Alif Rifky Ramadhan" ;
+    person:alamat                "Jl. Adi Azalea No.20" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung 24-Desember-2000" ;
+    person:universitas           "NHI" ;
+    person:jurusan               "Kitchen" ;
+    person:tahunmasuk            "2019" .
+
+id:010
+    person:nama                  "Nauzan Keynan" ;
+    person:alamat                "Jl. Adi Bakung No.30" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung 11-Januari-2002" ;
+    person:universitas           "NHI" ;
+    person:jurusan               "Kitchen" ;
+    person:tahunmasuk            "2020" .
+
+id:011
+    person:nama                  "Fadhlan Hakim" ;
+    person:alamat                "Jl. Adi Azalea No.17" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Bandung 7-Agustus-2002" ;
+    person:universitas           "Universitas Islam Bandung" ;
+    person:jurusan               "Tata Kota" ;
+    person:tahunmasuk            "2020" .
+
+id:012
+    person:nama                  "Fairuz Salspersonila" ;
+    person:alamat                "Jl. Crysantium No.40" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Perempuan" ;
+    person:ttl                   "Bandung 2-November-1999" ;
+    person:universitas           "Universitas Telkom" ;
+    person:jurusan               "MBTI" ;
+    person:tahunmasuk            "2018" .
+
+id:013
+    person:nama                  "Nazma Rahisa" ;
+    person:alamat                "Jl. Adi Crysantium No.52" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Perempuan" ;
+    person:ttl                   "Bandung 17-Oktober-1999" ;
+    person:universitas           "Universitas Telkom" ;
+    person:jurusan               "Ilmu Komunikasi" ;
+    person:tahunmasuk            "2018" .
+
+id:014
+    person:nama                  "Andin Putri" ;
+    person:alamat                "Jl. Adi Crysantium No.32" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Perempuan" ;
+    person:ttl                   "Jakarta 12-Juli-1999" ;
+    person:universitas           "Universitas Islam Bandung" ;
+    person:jurusan               "Ilmu Komunikasi" ;
+    person:tahunmasuk            "2018" .
+
+id:015
+    person:nama                  "Haidar Iqbal" ;
+    person:alamat                "Jl. Karangklesem No.20" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Laki-laki" ;
+    person:ttl                   "Purwokerto 11-November-2003" ;
+    person:universitas           "Universitas Jendral Soedirman" ;
+    person:jurusan               "Hukum" ;
+    person:tahunmasuk            "2021" .
+
+id:016
+    person:nama                  "Nadia Azzahra" ;
+    person:alamat                "Jl. Adi Kecubung No.3" ;
+    person:kewarganegaraan       "Indonesia" ;
+    person:agama                 "Islam" ;
+    person:jeniskelamin          "Perempuan" ;
+    person:ttl                   "Jakarta 1-November-2001" ;
+    person:universitas           "Universitas Telkom" ;
+    person:jurusan               "MBTI" ;
+    person:tahunmasuk            "2019" .
